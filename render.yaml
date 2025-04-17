@@ -1,8 +1,0 @@
-# render.yaml
-services:
-  - type: web
-    name: dsbda-mini-backend
-    env: python
-    buildCommand: pip install -r backend/requirements.txt
-    startCommand: python backend/app.py
-    region: oregon
