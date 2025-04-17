@@ -12,6 +12,8 @@ Model training using regression algorithms
 
 Evaluation using performance metrics (RMSE, MAE, etc.)
 
+
+
 📁 Technologies Used
 Python
 
@@ -22,6 +24,8 @@ Pandas, NumPy
 Matplotlib, Seaborn
 
 Scikit-learn
+
+
 
 📊 Dataset
 The dataset used includes details like:
@@ -36,7 +40,14 @@ Fare amount
 
 Dataset Source: [Insert dataset source here if available, e.g., Kaggle]
 
+
+
 📈 Objective
 To accurately predict the fare amount for Uber rides, helping to understand how different variables affect pricing.
 
+
+
 Link:http://127.0.0.1:5500/frontend/index.html
+
+![Screenshot (13)](https://github.com/user-attachments/assets/b66ac5ac-14f2-4d0f-80f8-3470ac2026e2)
+
